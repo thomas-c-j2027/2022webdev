@@ -16,6 +16,7 @@
 ## About the course 
 - Course name: 2022 Practical Web Development Course
 - You have to prepare laptop or desktop. 
+- Code output (Github)
 
 ### Phase 1 
 - HTML, CSS, JavaScript 
